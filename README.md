@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/followers/whatevernameisfine?label=Followers&style=for-the-badge" alt="Followers" />
   </a>
   <a href="https://github.com/whatevernameisfine">
-    <img src="https://img.shields.io/github/stars/whatevernameisfibeh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/whatevernameisfine?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Stars" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=whatevernameisfine&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
