@@ -1,4 +1,4 @@
-<h1 align="center">I'm a little nobody from a lost land called Madagascar !!! 👋</h1>
+<h1 align="center">I'm a little nobody from a lost land called Madagascar !!! </h1>
 
 <p align="center">
   <a href="https://github.com/whatevernameisfine?tab=followers">
