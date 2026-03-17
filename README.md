@@ -1,4 +1,4 @@
-<h1 align="center">I'm a little nobody from a lost land called Madagascar !!! </h1>
+<h1 align="center">They said progress takes time… unfortunately, time and I are not on speaking terms. </h1>
 
 <p align="center">
   <a href="https://github.com/whatevernameisfine?tab=followers">
