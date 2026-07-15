@@ -1,19 +1,12 @@
-<h1 align="center">They said progress takes time… unfortunately, time and I are not on speaking terms. </h1>
-
 <p align="center">
-  <a href="https://github.com/whatevernameisfine?tab=followers">
-    <img src="https://img.shields.io/github/followers/whatevernameisfine?label=Followers&style=for-the-badge" alt="Followers" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=F75C7E&vCenter=true&width=750&height=50&lines=They+said+progress+takes+time...;...unfortunately%2C+time+and+I+are+not+on+speaking+terms." alt="Typing SVG" />
   </a>
-  <a href="https://github.com/whatevernameisfine">
-    <img src="https://img.shields.io/github/stars/whatevernameisfine?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=whatevernameisfine&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
-- 🛠️ I'm working on: Making it through the 42 school (Antananarivo)
-- 🌱 I'm learning: To code mostly — a bit of this and that; I know C tho
-- ⚡ Fun fact: When I was young, I was poor, but after years of hard work, I'm no longer young.
-
+-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=FFF&vCenter=true&width=450&height=30&lines=I'm+working+on:+Making+it+through+42+Antananarivo" alt="Working on" />
+-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=FFF&vCenter=true&width=450&height=30&lines=I'm+learning:+To+code+mostly;I'm+learning:+A+bit+of+this+and+that;I'm+learning:+I+know+C+tho+;)" alt="Learning" />
+-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=FFF&vCenter=true&width=600&height=30&lines=Fun+fact:+When+I+was+young%2C+I+was+poor...;Fun+fact:+...after+years+of+hard+work%2C+I'm+no+longer+young." alt="Fun Fact" />
 
 Daily technologies:
 
